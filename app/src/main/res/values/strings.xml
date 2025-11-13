@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Pomidorka286_superhero</string>
+    <string name="app_name">Super vegetable</string>
+    <string name="hero1">Капитан цитрус</string>
+    <string name="description1">Летит, брызжа кислотой</string>
+    <string name="hero2">Попкорн-Паунд</string>
+    <string name="description2">Взрывной попкорн и непроходимые стебли</string>
+    <string name="hero3">Бракси</string>
+    <string name="description3">Вытягивает вои соцветия и бьет ими, а так же создает из них клонов</string>
+    <string name="hero4">Амарелла</string>
+    <string name="description4">Использует свою плодоношку как хлыст, плюётся семечками которые взрываются</string>
+    <string name="hero5">Хаас</string>
+    <string name="description5">Помогает союзникам силовым полем, лечит своей мякотью. А во врагов метает своей грави-косточкой.</string>
+    <string name="hero6">Наджиб</string>
+    <string name="description6">Накапливает энергию и преобразует её в луч или делает свои дольки взрывающимися</string>
 </resources>
